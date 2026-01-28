@@ -1,0 +1,1 @@
+[Placeholder] ERD diagram should be created using Draw.io, Lucidchart, or similar, then exported as PNG or PDF and placed here.

@@ -1,0 +1,35 @@
+2026-01-12 11:49:44,214 - INFO - Starting ETL pipeline
+2026-01-12 11:49:44,214 - INFO - Parsing XML from data\raw\sample_momo.xml
+2026-01-12 11:49:44,217 - INFO - Found 3 transactions
+2026-01-12 11:49:44,217 - INFO - 3 valid transactions
+2026-01-12 11:49:44,227 - INFO - Inserted 3 transactions to database
+2026-01-12 11:49:44,229 - INFO - Exported dashboard data to C:\Users\LENOVO\momo-transaction-analyzer\data\processed\dashboard.json
+2026-01-12 11:49:44,229 - INFO - ETL pipeline completed
+2026-01-12 22:50:49,048 - INFO - Starting ETL pipeline
+2026-01-12 22:50:49,048 - INFO - Parsing XML from data\raw\sample_momo.xml
+2026-01-12 22:50:49,055 - INFO - Found 3 transactions
+2026-01-12 22:50:49,055 - INFO - 3 valid transactions
+2026-01-12 22:50:49,082 - INFO - Inserted 3 transactions to database
+2026-01-12 22:50:49,086 - INFO - Exported dashboard data to C:\Users\LENOVO\momo-transaction-analyzer\data\processed\dashboard.json
+2026-01-12 22:50:49,087 - INFO - ETL pipeline completed
+2026-01-12 22:51:49,661 - INFO - Starting ETL pipeline
+2026-01-12 22:51:49,662 - INFO - Parsing XML from data\raw\sample_momo.xml
+2026-01-12 22:51:49,662 - INFO - Found 12 transactions
+2026-01-12 22:51:49,663 - INFO - 12 valid transactions
+2026-01-12 22:51:49,686 - INFO - Inserted 12 transactions to database
+2026-01-12 22:51:49,690 - INFO - Exported dashboard data to C:\Users\LENOVO\momo-transaction-analyzer\data\processed\dashboard.json
+2026-01-12 22:51:49,691 - INFO - ETL pipeline completed
+2026-01-13 14:05:31,486 - INFO - Starting ETL pipeline
+2026-01-13 14:05:31,487 - INFO - Parsing XML from ..\data\raw\sample_momo.xml
+2026-01-13 14:05:31,487 - INFO - Found 12 transactions
+2026-01-13 14:05:31,488 - INFO - 12 valid transactions
+2026-01-13 14:05:31,503 - INFO - Inserted 12 transactions to database
+2026-01-13 14:05:31,507 - INFO - Exported dashboard data to C:\Users\LENOVO\momo-transaction-analyzer\data\processed\dashboard.json
+2026-01-13 14:05:31,507 - INFO - ETL pipeline completed
+2026-01-13 14:14:03,237 - INFO - Starting ETL pipeline
+2026-01-13 14:14:03,238 - INFO - Parsing XML from ..\data\raw\sample_momo.xml
+2026-01-13 14:14:03,239 - INFO - Found 12 transactions
+2026-01-13 14:14:03,239 - INFO - 12 valid transactions
+2026-01-13 14:14:03,263 - INFO - Inserted 12 transactions to database
+2026-01-13 14:14:03,269 - INFO - Exported dashboard data to C:\Users\LENOVO\momo-transaction-analyzer\data\processed\dashboard.json
+2026-01-13 14:14:03,269 - INFO - ETL pipeline completed
